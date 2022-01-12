@@ -1,0 +1,24 @@
+#mainbox {
+    height: 80%;
+    width: 20%;
+    background-color: #000000;
+    margin-top: 8rem;
+    border-radius: 10px;
+}
+
+#mainimage {
+    margin-top: 2rem;
+    width: 80%;
+    height: 10%;
+}
+
+#login {
+    margin-bottom: 0.5rem;
+    width: 100%;
+}
+
+#forgotpass {
+    margin: 10px;
+    color: #504e4e;
+    text-align: center;
+}
